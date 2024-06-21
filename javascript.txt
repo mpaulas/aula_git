@@ -1,2 +1,3 @@
 A Turma JavaScritp 05!
 A Turma JS05 está na sessão de git.
+Atualização Remota.
